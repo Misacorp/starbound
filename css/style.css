@@ -1,0 +1,12 @@
+.parallax-header h1 {
+  font-weight: 300;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Press Start 2P';
+  line-height: 700px;
+  margin: 0;
+}
+
+.parallax-header {
+  height: 700px;
+}
