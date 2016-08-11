@@ -10,3 +10,7 @@
 .parallax-header {
   height: 700px;
 }
+
+.title {
+  font-weight: 500;
+}
