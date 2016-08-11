@@ -3,12 +3,12 @@
   color: white;
   text-transform: uppercase;
   font-family: 'Press Start 2P';
-  line-height: 700px;
+  line-height: 350px;
   margin: 0;
 }
 
 .parallax-header {
-  height: 700px;
+  height: 350px;
 }
 
 .title {
